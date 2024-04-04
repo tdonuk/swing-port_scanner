@@ -1,0 +1,1 @@
+A simple implementation of scanning algorithm, with swing GUI. Uses multithreading concepts like java ExecutorService to effectively scan many ports. able to scan with customizable scanning parameters. Able to show detailed scan results after scan ends and real-time results while scanning is in process already.
